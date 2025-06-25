@@ -1,2 +1,2 @@
-###SP
-SPPU Semester VI Practical Codes For DSBDA , LP-II (AI , SMA)
+# SPPU-Sem-VI-Practicals
+SPPU 2019 Pattern Computer Engineering Semester 5 Practical Codes For DSBDA , LP-II (AI , SMA)
